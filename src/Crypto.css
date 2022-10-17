@@ -1,0 +1,27 @@
+input[type="text"] {
+  width: 200px;
+  padding: 5px;
+  outline: none;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.crypto {
+  margin-top: 20px;
+}
+.crypto1 {
+  margin-top: 10px;
+}
+.rowimage {
+  width: 23%;
+  float: left;
+  display: flex;
+  background-color: #202122;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  color: white;
+}
+.img {
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 10px;
+}
