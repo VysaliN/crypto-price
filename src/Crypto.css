@@ -1,0 +1,22 @@
+input[type="text"] {
+  width: 300px;
+  padding: 5px;
+  outline: none;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.rowimage {
+  width: 23%;
+  float: left;
+  background-color: #202122;
+  margin-bottom: 50px;
+  margin-left: 20px;
+  color: white;
+  cursor: pointer;
+}
+.img {
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
